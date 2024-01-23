@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8d404rJdz17csYSoPoZEAf1Iy5sEZuNAzXniCS/YCE90cy/98o1T96wm7sulZHo30S5fqIMt2HL0ncYEDo8qRw==",
+  "dgSpecHash": "vUE6E6NOezNT1jAmbEpG6jEo/m1jLj7cxwHJT4BCJk1g7KuF8Cchc4MTSxsi3CcK+aWCWuekFhFwFia+2HhK0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\luizf\\Desktop\\Desktop Fabricio\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luizf\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\luizf\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

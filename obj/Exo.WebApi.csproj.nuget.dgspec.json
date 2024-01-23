@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Users\\luizf\\Desktop\\Desktop Fabricio\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Users\\luizf\\Desktop\\Desktop Fabricio\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\luizf\\Desktop\\Desktop Fabricio\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\luizf\\Desktop\\Desktop Fabricio\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\luizf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizf\\OneDrive\\Área de Trabalho\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\luizf\\Desktop\\Desktop Fabricio\\Fabricio 2023\\Cursos Fabricio\\Curso Back_end\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luizf\\AppData\\Roaming\\NuGet\\NuGet.Config"
